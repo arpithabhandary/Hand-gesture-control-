@@ -53,9 +53,5 @@ python hand_gesture_control.py
 - Ensure no other applications are using the webcam.
 - If keyboard emulation fails, run the script with administrator privileges.
 
-## License
-This project is licensed under the MIT License.
-
-## Author
-[Your Name] - [Your GitHub Profile]
+Arpitha Bhandary
 
